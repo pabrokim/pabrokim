@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pabrokim
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python libraries for data analysis
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Git, html, CSS, JavaScript, and Ruby on rails
 - 💞️ I’m looking to collaborate on any related project
 - 📫 How to reach me via direct private message
 
